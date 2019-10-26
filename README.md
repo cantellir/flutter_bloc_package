@@ -1,6 +1,6 @@
 # bloc_package
 
-A new Flutter package project.
+A Flutter package to implement bloc pattern in a simple way. Based on [Didier Boelens article](https://www.didierboelens.com/2018/12/reactive-programming---streams---bloc---practical-use-cases/).
 
 ## Getting Started
 
