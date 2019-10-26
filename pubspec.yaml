@@ -1,8 +1,9 @@
 name: bloc_package
-description: A new Flutter package project.
+description: A Flutter package to implement bloc in a simple way.
 version: 0.0.1
-author:
-homepage:
+author: Rodrigo Cantelli <cantelli.r@gmail.com>
+homepage: https://github.com/cantellir
+repository: https://github.com/cantellir/flutter_bloc_package/blob/master/lib/bloc_package.dart
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
